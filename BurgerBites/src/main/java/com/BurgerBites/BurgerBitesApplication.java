@@ -8,7 +8,7 @@ public class BurgerBitesApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(BurgerBitesApplication.class, args);
-		System.out.print("hello world");
+		
 	}
 
 }
