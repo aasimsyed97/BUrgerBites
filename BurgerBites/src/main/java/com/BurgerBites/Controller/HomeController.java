@@ -10,7 +10,7 @@ public class HomeController {
 	@GetMapping("/")
 	  public String home() { 
 		
-		System.out.print("hello world");
+		
 		  return "home";
 	  }
 }
