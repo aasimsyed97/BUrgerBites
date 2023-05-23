@@ -1,4 +1,4 @@
-package com.BurgerBites.Controller;
+package com.BurgerBites;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;

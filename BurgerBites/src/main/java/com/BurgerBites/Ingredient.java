@@ -1,4 +1,4 @@
-package com.BurgerBites.Model;
+package com.BurgerBites;
 
 import lombok.Data;
 import lombok.RequiredArgsConstructor;
