@@ -4,7 +4,8 @@ public class Taco {
 
 	
 
- 
+  private int price;
+  
 	   
 	       
   
